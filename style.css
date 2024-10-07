@@ -173,8 +173,7 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
-  border-radius: 50%; /* Make the container round */
-  overflow: hidden; /* Ensures the image stays within the round shape */
+   /* Ensures the image stays within the round shape */
 }
 
 .section__pic-container2 {
@@ -182,6 +181,8 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  border-radius: 50%; /* Make the container round */
+  overflow: hidden;
 }
 
 .section__text {
